@@ -69,7 +69,7 @@ display(Markdown(response))
 
 # LangChain: Evaluation
 Outline:
-Example generation
-Manual evaluation (and debuging)
-LLM-assisted evaluation
-LangChain evaluation platform
+* Example generation
+* Manual evaluation (and debuging)
+* LLM-assisted evaluation
+* LangChain evaluation platform
